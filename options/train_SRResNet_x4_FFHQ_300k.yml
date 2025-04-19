@@ -43,7 +43,7 @@ datasets:
     name: FFHQ_train
     type: FFHQsubDataset
     dataroot_gt: data/FFHQ/train/GT
-    meta_info: data/FFHQ/train/meta_info_FFHQ5000sub_GT.txt
+    meta_info: data/FFHQ/train/meta_info_FFHQ6000sub_GT.txt
     io_backend:
       type: disk
 
